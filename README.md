@@ -1,2 +1,3 @@
 # textutils
-Theme Mode
+Theme Mode.
+Author: Prakash Srivastava
